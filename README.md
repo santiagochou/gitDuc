@@ -1,0 +1,2 @@
+# gitDuc
+To store documents.
